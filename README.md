@@ -1,6 +1,6 @@
 # Introducción a Machine Learning 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR_USERNAME/Machine_Learning_Intro/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/Maestria-en-Ciencia-de-datos-HWTNM/Machine_Learning_Intro/HEAD)
 
 ## Descripción
 Curso impartido en la escuela de ingeniería

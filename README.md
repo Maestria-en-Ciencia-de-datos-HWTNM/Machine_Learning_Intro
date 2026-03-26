@@ -1,6 +1,8 @@
 # Introducción a Machine Learning 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Maestria-en-Ciencia-de-datos-HWTNM/Machine_Learning_Intro/HEAD)
+[![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
+[![image](https://img.shields.io/pypi/pyversions/uv.svg)](https://pypi.python.org/pypi/uv)
 
 ## Descripción
 Curso impartido en la escuela de ingeniería

@@ -1,13 +1,18 @@
 # Introducción a Machine Learning 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Maestria-en-Ciencia-de-datos-HWTNM/Machine_Learning_Intro/HEAD)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/Machine_Learning_Intro/HEAD)
-
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
 
 
 ## Descripción
 Curso impartido en la escuela de ingeniería
+### Clase 1. Introducción python y visualización
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/Machine_Learning_Intro/blob/main/clase1/clase1a.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/Machine_Learning_Intro/blob/main/clase1/clase1b.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/Machine_Learning_Intro/blob/main/clase1/clase1c.ipynb)
+### Clase 2. Modelos lineales
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/Machine_Learning_Intro/blob/main/clase2/clase2a.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/Machine_Learning_Intro/blob/main/clase2/clase2b.ipynb)   
 ## Local Setup
 
 ### Using UV

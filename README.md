@@ -15,6 +15,9 @@ Curso impartido en la escuela de ingeniería
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/Machine_Learning_Intro/blob/main/clase2/clase2b.ipynb)
 ### Clase 3. Redes Neuronales
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/Machine_Learning_Intro/blob/main/clase3/clase3a.ipynb)   
+### Clase 4. Modelos ML
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/Machine_Learning_Intro/blob/main/clase4/clase4a.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/Machine_Learning_Intro/blob/main/clase4/clase4b.ipynb)   
 ## Local Setup
 
 ### Using UV

@@ -20,6 +20,8 @@ Curso impartido en la escuela de ingeniería
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/Machine_Learning_Intro/blob/main/clase4/clase4b.ipynb)   
 ### Clase 5. Modelamiento CV y HT
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/Machine_Learning_Intro/blob/main/clase5/clase5.ipynb)  
+### Clase 6. Tareas no supervisadas
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maestria-en-Ciencia-de-datos-HWTNM/Machine_Learning_Intro/blob/main/clase6/clase6.ipynb)  
  
 
 ## Local Setup

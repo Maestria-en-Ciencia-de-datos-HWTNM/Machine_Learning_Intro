@@ -643,3 +643,12 @@ X does not have valid feature names, but KMeans was fitted with feature names
 
 2026-05-06 10:53:09,913:INFO:Visual Rendered Successfully
 2026-05-06 10:53:10,115:INFO:plot_model() successfully completed......................................
+2026-08-28 21:31:09,053:WARNING:
+'kmodes' is a soft dependency and not included in the pycaret installation. Install it with: `pip install kmodes`.
+Or install the extras bundle: `pip install pycaret[models]`.
+2026-08-28 21:32:06,350:WARNING:
+'kmodes' is a soft dependency and not included in the pycaret installation. Install it with: `pip install kmodes`.
+Or install the extras bundle: `pip install pycaret[models]`.
+2026-08-28 21:32:58,246:WARNING:
+'kmodes' is a soft dependency and not included in the pycaret installation. Install it with: `pip install kmodes`.
+Or install the extras bundle: `pip install pycaret[models]`.

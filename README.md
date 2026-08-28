@@ -29,7 +29,7 @@ Curso impartido en la escuela de ingeniería
 ### Using UV
 ```bash
 # Create virtual environment
-uv venv --python 3.10
+uv venv --python 3.12
 
 # Activate environment
 .\.venv\Scripts\Activate.ps1  # Windows

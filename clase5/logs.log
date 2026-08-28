@@ -2184,3 +2184,21 @@ Alternately, you can install this by running `pip install pycaret[models]`
 2026-04-24 17:34:19,256:INFO:Preloading libraries
 2026-04-24 17:34:19,256:INFO:Set up data.
 2026-04-24 17:34:19,275:INFO:Set up index.
+2026-08-28 21:05:54,482:INFO:Soft dependency imported: xgboost: 3.2.0
+2026-08-28 21:05:54,526:WARNING:
+'lightgbm' is a soft dependency and not included in the pycaret installation. Install it with: `pip install lightgbm`.
+2026-08-28 21:05:54,527:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Install it with: `pip install catboost`.
+Or install the extras bundle: `pip install pycaret[models]`.
+2026-08-28 21:07:22,499:INFO:Soft dependency imported: xgboost: 3.2.0
+2026-08-28 21:07:22,499:WARNING:
+'lightgbm' is a soft dependency and not included in the pycaret installation. Install it with: `pip install lightgbm`.
+2026-08-28 21:07:22,499:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Install it with: `pip install catboost`.
+Or install the extras bundle: `pip install pycaret[models]`.
+2026-08-28 21:10:24,663:INFO:Soft dependency imported: xgboost: 3.2.0
+2026-08-28 21:10:24,673:WARNING:
+'lightgbm' is a soft dependency and not included in the pycaret installation. Install it with: `pip install lightgbm`.
+2026-08-28 21:10:24,673:WARNING:
+'catboost' is a soft dependency and not included in the pycaret installation. Install it with: `pip install catboost`.
+Or install the extras bundle: `pip install pycaret[models]`.
